@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+
+#heading{
+    color:white;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius:10px;
+}
+
+#name
+{
+    position: fixed;
+    width: 100%;
+    bottom:0;
+    line-height: 3px;
+    text-align: center;
+    background-color: lightslategray;
+    line-height: 30px;
+    font-weight: bold;
+}
